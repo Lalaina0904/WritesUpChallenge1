@@ -1,6 +1,6 @@
 #### OverTheWire : --> [links](https://overthewire.org/wargames/bandit/bandit0.html)
 
-#### Solutions for bandit (0 - 34)
+#### Solutions for bandit (0 - 17)
 
 #### Niveau 0:
 ```sh
