@@ -210,5 +210,11 @@ openssl s_client -connect localhost:31790
 ```
 
 
-#### Niveau 17 - 18: ...
-
+#### Niveau 17 - 18: 
+```sh
+ssh bandit17@bandit.labs.overthewire.org -p 2220
+ls
+diff passwords.old passwords.new
+The < sign represents the lines that have been removed and the > sign represents the lines that have been added in its place
+The line after the > sign is the password for the next level
+```
